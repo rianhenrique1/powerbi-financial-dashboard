@@ -45,7 +45,7 @@ Dashboard financeiro desenvolvido para análise dos principais indicadores econ�
 
 ---
 
-# Competências
+# 🚀 Competências
 
 - Financial Analytics
 - Dashboard Executivo
